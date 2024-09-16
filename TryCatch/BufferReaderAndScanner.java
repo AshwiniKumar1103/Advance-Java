@@ -11,7 +11,7 @@ public class BufferReaderAndScanner {
         int num = System.in.read();
         System.out.println(num - 48);
         BufferedReader bf = null;
-        Scanner sc=null;
+        Scanner sc = null;
         try {
             System.out.println("enter second number");
             clearInputStream();
@@ -21,13 +21,13 @@ public class BufferReaderAndScanner {
             System.out.println(num2);
             System.out.println("Enter third number");
             clearInputStream();
-             sc = new Scanner(System.in);
+            sc = new Scanner(System.in);
             int num3 = sc.nextInt();
             System.out.println(num3);
         } catch (Exception e) {
             System.out.println(e.getMessage());
             bf.close();
-        }finally{
+        } finally {
             sc.close();
         }
     }
