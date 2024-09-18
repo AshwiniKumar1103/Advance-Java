@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClass",
+            "request": "launch",
+            "mainClass": "AbstractClass",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "CollectionApi",
+            "request": "launch",
+            "mainClass": "CollectionAPI.CollectionApi",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "Mapz",
+            "request": "launch",
+            "mainClass": "CollectionAPI.Mapz",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "Sets",
+            "request": "launch",
+            "mainClass": "CollectionAPI.Sets",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "Enum",
+            "request": "launch",
+            "mainClass": "Enum.Enum",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "EnumClass",
+            "request": "launch",
+            "mainClass": "Enum.EnumClass",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "AbstractAndAnnonymousClass",
+            "request": "launch",
+            "mainClass": "InnerClass.AbstractAndAnnonymousClass",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "Interface.Interface",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "NeedOfInterface",
+            "request": "launch",
+            "mainClass": "Interface.NeedOfInterface",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "functionalInterface",
+            "request": "launch",
+            "mainClass": "Interface.functionalInterface",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "MultipleThreads",
+            "request": "launch",
+            "mainClass": "Threads.MultipleThreads",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "RaceCondition",
+            "request": "launch",
+            "mainClass": "Threads.RaceCondition",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "BufferReaderAndScanner",
+            "request": "launch",
+            "mainClass": "TryCatch.BufferReaderAndScanner",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchMethod",
+            "request": "launch",
+            "mainClass": "TryCatch.TryCatchMethod",
+            "projectName": "Advance-Java_bb46e5a3"
+        },
+        {
+            "type": "java",
+            "name": "TryWithResources",
+            "request": "launch",
+            "mainClass": "TryCatch.TryWithResources",
+            "projectName": "Advance-Java_bb46e5a3"
+        }
+    ]
+}

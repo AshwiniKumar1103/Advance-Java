@@ -1,4 +1,4 @@
-package  CollectionAPI;
+package CollectionAPI;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -14,11 +14,11 @@ public class Sets {
         num.add(10);
         num.add(100);
         Iterator<Integer> values = num.iterator();
-        while(values.hasNext()){
+        while (values.hasNext()) {
             System.out.println(values.next());
         }
         System.out.println(num);
-        for (int n:num){
+        for (int n : num) {
             System.out.println(n);
         }
     }
